@@ -1,0 +1,4 @@
+h1. NagiosClientWin32Install
+
+h2. Description
+Ce script VBS permet d'automatiser l'installation du client NRPE NsClient++ sur un système d'exploitation Windows.
